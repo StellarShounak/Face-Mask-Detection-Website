@@ -1,0 +1,146 @@
+*
+{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+.body_1 {
+  background-image: url('4.jpg');
+  background-size: 90%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #190935 ;
+  opacity=0.5;
+}
+.logo{
+  background-image: url('icon.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  width:150px;
+  height:150px;
+  background-position:left top;
+  border: 3px solid #ddd;
+  border-radius: 7px;
+  padding: 5px;
+  position: relative;
+  animation: mymove 4s infinite;
+ }
+ @keyframes mymove {
+  from {left: 0px;}
+  to {left: 100px;}
+}
+
+.page-title {
+  text-align: center;
+  background: linear-gradient(to right, rgba(225, 215, 225, 0) 0%, rgba(225, 255, 255, 0.3) 20%, rgba(225, 255, 255, 0) 61%), linear-gradient(rgb(122, 15, 159) 52%, rgb(221, 200, 232) 60%, rgb(25, 25, 112) 61%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: wave 2000ms ease alternate infinite;
+  transition: all 0.4s ease;
+  font-family: stencil Std, fantasy;
+  font-size: 85px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  margin-top: 20vh;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  text-transform: uppercase;
+}
+
+@keyframes wave {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 50vw 10px;
+  }
+}
+
+#one {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  position: relative
+}
+
+#two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #ff4081;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #6634c2;
+}
+
+.button:active {
+  background-color: #c2185b;
+}
+.description{
+  text-align: center;
+  font-family:"Courier New", monospace;
+  font-size: 2em;
+  color: #B6EEE4  ;
+  margin: 0px 0px 10px 0px;
+  line-height: 40px;
+}
+
+.mask{
+  background-image: url('mask.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  width:-150px;
+  height:150px;
+  background-position:right bottom;
+  padding: 5px;
+  position: relative;
+  animation: move 4s infinite;
+ }
+ @keyframes move {
+  from {right: 0px;}
+  to {right: 100px;}
+}
+
+.body_2{
+ background-image: url('2.jpg');
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: solid black ;
+  opacity=0.5;
+}
+.title{
+  font-family: stencil Std, fantasy;
+  background: linear-gradient(rgb(122, 15, 159) 52%, rgb(221, 200, 232) 60%, rgb(25, 25, 112) 61%);
+  font-size: 50px;
+  font-weight: 200;
+  letter-spacing: 2px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  text-transform: uppercase;
+  animation: wave2 2000ms ease alternate infinite;
+  transition: all 0.4s ease;
+}
+@keyframes wave2 {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 100vw 10px;
+  }
+}

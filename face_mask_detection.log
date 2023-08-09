@@ -1,0 +1,156 @@
+2023-07-24 10:08:04 [INFO]: Loading the face mask detection model
+2023-07-24 10:08:06 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-07-24 10:08:06 [INFO]: [33mPress CTRL+C to quit[0m
+2023-07-24 10:08:07 [INFO]:  * Restarting with watchdog (windowsapi)
+2023-07-24 10:08:14 [INFO]: Loading the face mask detection model
+2023-07-24 10:08:15 [WARNING]:  * Debugger is active!
+2023-07-24 10:08:15 [INFO]:  * Debugger PIN: 851-325-154
+2023-07-24 10:23:49 [INFO]: Loading the face mask detection model
+2023-07-24 10:23:50 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-07-24 10:23:50 [INFO]: [33mPress CTRL+C to quit[0m
+2023-07-24 10:23:50 [INFO]:  * Restarting with watchdog (windowsapi)
+2023-07-24 10:23:57 [INFO]: Loading the face mask detection model
+2023-07-24 10:23:58 [WARNING]:  * Debugger is active!
+2023-07-24 10:23:58 [INFO]:  * Debugger PIN: 851-325-154
+2023-07-24 10:24:03 [INFO]:  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python311\\site-packages\\keras\\saving\\saving_lib.py', reloading
+2023-07-24 10:24:04 [INFO]:  * Restarting with watchdog (windowsapi)
+2023-07-24 10:24:11 [INFO]: Loading the face mask detection model
+2023-07-24 10:24:11 [WARNING]:  * Debugger is active!
+2023-07-24 10:24:11 [INFO]:  * Debugger PIN: 851-325-154
+2023-07-24 10:25:00 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:25:00] "GET / HTTP/1.1" 200 -
+2023-07-24 10:25:01 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:25:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2023-07-24 10:25:01 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:25:01] "[36mGET /static/backgrnd.jpg HTTP/1.1[0m" 304 -
+2023-07-24 10:25:03 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:25:03] "GET /result HTTP/1.1" 200 -
+2023-07-24 10:25:04 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:25:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-24 10:25:04 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:25:04] "GET /video_feed HTTP/1.1" 200 -
+2023-07-24 10:25:37 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:25:37] "GET /result HTTP/1.1" 200 -
+2023-07-24 10:25:37 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:25:37] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-24 10:25:37 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:25:37] "GET /video_feed HTTP/1.1" 200 -
+2023-07-24 10:26:04 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:26:04] "GET /result HTTP/1.1" 200 -
+2023-07-24 10:26:04 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:26:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-24 10:26:04 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:26:04] "GET /video_feed HTTP/1.1" 200 -
+2023-07-24 10:27:40 [INFO]:  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python311\\site-packages\\cv2\\__init__.py', reloading
+2023-07-24 10:27:41 [INFO]:  * Restarting with watchdog (windowsapi)
+2023-07-24 10:27:48 [INFO]: Loading the face mask detection model
+2023-07-24 10:27:49 [WARNING]:  * Debugger is active!
+2023-07-24 10:27:49 [INFO]:  * Debugger PIN: 851-325-154
+2023-07-24 10:30:38 [INFO]:  * Detected change in 'C:\\Users\\hp\\Desktop\\Face_mask_detection\\Face_detection.py', reloading
+2023-07-24 10:30:38 [INFO]:  * Detected change in 'C:\\Users\\hp\\Desktop\\Face_mask_detection\\Face_detection.py', reloading
+2023-07-24 10:30:38 [INFO]:  * Detected change in 'C:\\Users\\hp\\Desktop\\Face_mask_detection\\Face_detection.py', reloading
+2023-07-24 10:30:38 [INFO]:  * Detected change in 'C:\\Users\\hp\\Desktop\\Face_mask_detection\\Face_detection.py', reloading
+2023-07-24 10:30:39 [INFO]:  * Restarting with watchdog (windowsapi)
+2023-07-24 10:30:47 [INFO]: Loading the face mask detection model
+2023-07-24 10:30:47 [WARNING]:  * Debugger is active!
+2023-07-24 10:30:47 [INFO]:  * Debugger PIN: 851-325-154
+2023-07-24 10:30:48 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:30:48] "GET /result HTTP/1.1" 200 -
+2023-07-24 10:30:48 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:30:48] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-24 10:31:03 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:31:03] "GET /video_feed HTTP/1.1" 200 -
+2023-07-24 10:43:45 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:43:45] "GET / HTTP/1.1" 200 -
+2023-07-24 10:43:55 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:43:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2023-07-24 10:43:55 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:43:55] "[36mGET /static/backgrnd.jpg HTTP/1.1[0m" 304 -
+2023-07-24 10:44:08 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:44:08] "GET /result HTTP/1.1" 200 -
+2023-07-24 10:44:08 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:44:08] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-24 10:44:20 [INFO]: 127.0.0.1 - - [24/Jul/2023 10:44:20] "GET /video_feed HTTP/1.1" 200 -
+2023-08-02 23:51:21 [INFO]: Loading the face mask detection model
+2023-08-02 23:51:30 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-02 23:51:30 [INFO]: [33mPress CTRL+C to quit[0m
+2023-08-02 23:51:30 [INFO]:  * Restarting with watchdog (windowsapi)
+2023-08-02 23:52:18 [INFO]: Loading the face mask detection model
+2023-08-02 23:52:37 [WARNING]:  * Debugger is active!
+2023-08-02 23:52:42 [INFO]:  * Debugger PIN: 851-325-154
+2023-08-03 01:45:41 [INFO]:  * Detected change in 'C:\\Users\\hp\\Desktop\\Face_mask_detection\\Model.py', reloading
+2023-08-03 01:45:52 [INFO]:  * Restarting with watchdog (windowsapi)2023-08-03 13:18:27 [INFO]: Loading the face mask detection model
+2023-08-03 13:18:28 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-03 13:18:28 [INFO]: [33mPress CTRL+C to quit[0m
+2023-08-03 13:18:28 [INFO]:  * Restarting with stat
+2023-08-03 13:18:34 [INFO]: Loading the face mask detection model
+2023-08-03 13:18:35 [WARNING]:  * Debugger is active!
+2023-08-03 13:18:35 [INFO]:  * Debugger PIN: 974-582-020
+2023-08-03 13:19:53 [INFO]: Loading the face mask detection model
+2023-08-03 13:19:54 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-03 13:19:54 [INFO]: [33mPress CTRL+C to quit[0m
+2023-08-03 13:19:54 [INFO]:  * Restarting with stat
+2023-08-03 13:19:59 [INFO]: Loading the face mask detection model
+2023-08-03 13:19:59 [WARNING]:  * Debugger is active!
+2023-08-03 13:19:59 [INFO]:  * Debugger PIN: 974-582-020
+2023-08-03 13:20:03 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:20:03] "GET / HTTP/1.1" 200 -
+2023-08-03 13:20:03 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:20:03] "GET /static/style.css HTTP/1.1" 200 -
+2023-08-03 13:20:03 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:20:03] "GET /static/backgrnd.jpg HTTP/1.1" 200 -
+2023-08-03 13:20:04 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:20:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-08-03 13:20:07 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:20:07] "GET /result HTTP/1.1" 200 -
+2023-08-03 13:20:07 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:20:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2023-08-03 13:20:07 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:20:07] "GET /video_feed HTTP/1.1" 200 -
+2023-08-03 13:21:36 [INFO]: Loading the face mask detection model
+2023-08-03 13:21:37 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-03 13:21:37 [INFO]: [33mPress CTRL+C to quit[0m
+2023-08-03 13:21:37 [INFO]:  * Restarting with stat
+2023-08-03 13:21:42 [INFO]: Loading the face mask detection model
+2023-08-03 13:21:43 [WARNING]:  * Debugger is active!
+2023-08-03 13:21:43 [INFO]:  * Debugger PIN: 974-582-020
+2023-08-03 13:21:51 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:21:51] "GET / HTTP/1.1" 200 -
+2023-08-03 13:21:52 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:21:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2023-08-03 13:21:52 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:21:52] "[36mGET /static/backgrnd.jpg HTTP/1.1[0m" 304 -
+2023-08-03 13:21:53 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:21:53] "GET /result HTTP/1.1" 200 -
+2023-08-03 13:21:53 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:21:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2023-08-03 13:21:53 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:21:53] "GET /video_feed HTTP/1.1" 200 -
+2023-08-03 13:25:42 [INFO]: Loading the face mask detection model
+2023-08-03 13:25:43 [INFO]: Starting video capture
+2023-08-03 13:25:48 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-03 13:25:48 [INFO]: [33mPress CTRL+C to quit[0m
+2023-08-03 13:25:48 [INFO]:  * Restarting with stat
+2023-08-03 13:25:53 [INFO]: Loading the face mask detection model
+2023-08-03 13:25:54 [INFO]: Starting video capture
+2023-08-03 13:25:58 [WARNING]:  * Debugger is active!
+2023-08-03 13:25:58 [INFO]:  * Debugger PIN: 974-582-020
+2023-08-03 13:26:03 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:26:03] "GET / HTTP/1.1" 200 -
+2023-08-03 13:26:03 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:26:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2023-08-03 13:26:03 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:26:03] "[36mGET /static/backgrnd.jpg HTTP/1.1[0m" 304 -
+2023-08-03 13:26:05 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:26:05] "GET /result HTTP/1.1" 200 -
+2023-08-03 13:26:05 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:26:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2023-08-03 13:26:08 [INFO]: 127.0.0.1 - - [03/Aug/2023 13:26:08] "GET /video_feed HTTP/1.1" 200 -
+2023-08-05 19:17:54 [INFO]: Loading the face mask detection model
+2023-08-05 19:17:55 [INFO]: Starting video capture
+2023-08-05 19:17:58 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-05 19:17:58 [INFO]: [33mPress CTRL+C to quit[0m
+2023-08-05 19:17:58 [INFO]:  * Restarting with stat
+2023-08-05 19:18:02 [INFO]: Loading the face mask detection model
+2023-08-05 19:18:02 [INFO]: Starting video capture
+2023-08-05 19:18:05 [WARNING]:  * Debugger is active!
+2023-08-05 19:18:05 [INFO]:  * Debugger PIN: 974-582-020
+2023-08-05 19:18:09 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:18:09] "GET / HTTP/1.1" 200 -
+2023-08-05 19:18:09 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:18:09] "GET /static/style.css HTTP/1.1" 200 -
+2023-08-05 19:18:09 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:18:09] "[33mGET /static/4.jpeg HTTP/1.1[0m" 404 -
+2023-08-05 19:18:09 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:18:09] "GET /static/icon.jpg HTTP/1.1" 200 -
+2023-08-05 19:18:09 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:18:09] "GET /static/mask.png HTTP/1.1" 200 -
+2023-08-05 19:18:09 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:18:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-08-05 19:18:28 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:18:28] "GET /result HTTP/1.1" 200 -
+2023-08-05 19:18:28 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:18:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2023-08-05 19:18:28 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:18:28] "[33mGET /static/2.jpeg HTTP/1.1[0m" 404 -
+2023-08-05 19:18:31 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:18:31] "GET /video_feed HTTP/1.1" 200 -
+2023-08-05 19:22:50 [INFO]: Loading the face mask detection model
+2023-08-05 19:22:51 [INFO]: Starting video capture
+2023-08-05 19:22:54 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-05 19:22:54 [INFO]: [33mPress CTRL+C to quit[0m
+2023-08-05 19:22:54 [INFO]:  * Restarting with stat
+2023-08-05 19:22:57 [INFO]: Loading the face mask detection model
+2023-08-05 19:22:58 [INFO]: Starting video capture
+2023-08-05 19:23:01 [WARNING]:  * Debugger is active!
+2023-08-05 19:23:01 [INFO]:  * Debugger PIN: 974-582-020
+2023-08-05 19:23:01 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:23:01] "GET / HTTP/1.1" 200 -
+2023-08-05 19:23:01 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:23:01] "GET /static/style.css HTTP/1.1" 200 -
+2023-08-05 19:23:01 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:23:01] "GET /static/4.jpg HTTP/1.1" 200 -
+2023-08-05 19:23:01 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:23:01] "[36mGET /static/icon.jpg HTTP/1.1[0m" 304 -
+2023-08-05 19:23:01 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:23:01] "[36mGET /static/mask.png HTTP/1.1[0m" 304 -
+2023-08-05 19:23:07 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:23:07] "GET /result HTTP/1.1" 200 -
+2023-08-05 19:23:07 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:23:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2023-08-05 19:23:07 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:23:07] "GET /static/2.jpg HTTP/1.1" 200 -
+2023-08-05 19:23:10 [INFO]: 127.0.0.1 - - [05/Aug/2023 19:23:10] "GET /video_feed HTTP/1.1" 200 -
